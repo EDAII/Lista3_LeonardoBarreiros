@@ -6,8 +6,8 @@
 
 Para rodar o programa primeiramente é necessário ter a biblioteca de gerador de gráficos.
 Para instalar:
-- pip3 install matplotlib
-  ou
+- pip3 install matplotlib<br>
+ou
 - sudo apt-get install python3-matplotlib
 
 Em seguida basta executar o programa:
